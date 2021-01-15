@@ -1,0 +1,26 @@
+shimmy10
+204693352
+Shimon Balsam
+
+
+I discussed the exercise with: Naama Glazer, Yoni Leibner.
+
+=============================
+= README for ex11: ex11.py
+=============================
+
+===========================
+=  Description: =
+
+One program including many different functions, which define further usable
+mathematical functions, such as a constant function, sin, integral, etc.
+So that in the final function, it will be possible to
+print to the screen different continuous graphs, fitting needed mathematical
+equations.
+====================================================
+
+==================================================
+= Special Comments =
+None
+==================================================
+
